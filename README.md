@@ -13,3 +13,4 @@ Para dar inicio a execução.
 6° Abrir o arquivo TrabalhoComArvores.java.
 7° Apertar f5 no seu teclado ou apertar o botão de Executar e Depurar.
 8° Aguardar a finalização do arquivo.
+OBS.: Em caso de problemas, entrar em contato com Francisco Welio(francisco.firmino@aluno.uepb.edu.br).
